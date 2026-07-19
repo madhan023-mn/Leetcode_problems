@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
