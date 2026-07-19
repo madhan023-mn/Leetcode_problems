@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0509-fibonacci-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -55,8 +57,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
