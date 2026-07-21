@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
