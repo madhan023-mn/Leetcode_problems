@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0709-to-lower-case) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
