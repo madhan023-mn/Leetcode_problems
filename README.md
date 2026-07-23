@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
 ## Number Theory
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0125-valid-palindrome) |
