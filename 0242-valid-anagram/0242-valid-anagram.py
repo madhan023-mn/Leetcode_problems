@@ -1,4 +1,8 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        return sorted(s)==sorted(t)
+       a=list(s)
+       b=list(t)
+       a.sort()
+       b.sort()
+       return a==b
         
