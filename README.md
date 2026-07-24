@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
