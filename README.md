@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 ## Hash Table
