@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0182-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
