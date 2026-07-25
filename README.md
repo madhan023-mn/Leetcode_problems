@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0709-to-lower-case) |
+| [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
+| [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 ## Binary Search
 |  |
 | ------- |
