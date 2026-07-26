@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
