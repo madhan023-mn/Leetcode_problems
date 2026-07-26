@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0191-number-of-1-bits) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Sorting
