@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
