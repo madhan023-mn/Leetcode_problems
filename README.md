@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
