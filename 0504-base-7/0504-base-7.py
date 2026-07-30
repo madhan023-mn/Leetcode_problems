@@ -1,18 +1,19 @@
 class Solution(object):
     def convertToBase7(self, num):
-        if num==0:
-            return '0'
-        is_negative = num < 0
+        if num == 0:
+            return "0"
+
+        negative = num < 0
         num = abs(num)
-        digits = []
-        
+        ans = ""
+
         while num > 0:
-            digits.append(str(num % 7))
+            ans = str(num % 7) + ans
             num //= 7
-            
-        if is_negative:
-            digits.append('-')
-            
-        return "".join(digits[::-1])
+
+        if negative:
+            ans = "-" + ans
+
+        return ans
 
         
