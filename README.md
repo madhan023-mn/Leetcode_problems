@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0075-sort-colors) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0367-valid-perfect-square) |
