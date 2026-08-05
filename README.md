@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
+| [3731-find-missing-elements](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
