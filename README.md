@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0258-add-digits) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0367-valid-perfect-square) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
