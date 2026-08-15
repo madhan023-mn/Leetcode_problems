@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0268-missing-number) |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
