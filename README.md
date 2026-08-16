@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3731-find-missing-elements](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
