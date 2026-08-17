@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0620-not-boring-movies) |
 | [1179-reformat-department-table](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1179-reformat-department-table) |
 ## String Matching
