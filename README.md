@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0620-not-boring-movies) |
 | [1179-reformat-department-table](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1407-top-travellers) |
+| [3436-find-valid-emails](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3436-find-valid-emails) |
 ## String Matching
 |  |
 | ------- |
