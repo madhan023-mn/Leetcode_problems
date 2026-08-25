@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
