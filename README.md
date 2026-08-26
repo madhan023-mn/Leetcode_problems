@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0917-reverse-only-letters) |
+| [1859-sorting-the-sentence](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [3536-maximum-product-of-two-digits](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/madhan023-mn/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhan023-mn/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/madhan023-mn/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
